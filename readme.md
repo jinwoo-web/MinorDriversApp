@@ -8,9 +8,9 @@ Microsoft Store
 https://apps.microsoft.com/detail/9PLMP2K9P3H0?hl=neutral&gl=KR&ocid=pdpshare
 
 
-전용앱을 usbpcap + wireshark 을 이용해 usb패킷 분석 후 개발한 프로그램입니다.
+전용앱을 usbpcap + wireshark 을 이용해 usb패킷 분석 후 개발한 프로그램입니다.   
 専用アプリを usbpcap + wireshark を利用して usbパケット分析後に開発したプログラムです。
 
 
-시스템사양서 (システム仕様書)
+시스템사양서 (システム仕様書)   
 https://www.npa.go.jp/laws/notification/koutuu/menkyo/menkyo20240719_145.pdf
